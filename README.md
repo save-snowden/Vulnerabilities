@@ -1,3 +1,3 @@
 # Vulnerabilities
 
-These things may be usefull for  Cyber Src. Students
+These things may be usefull for  Cyber Sec. Students
